@@ -12,3 +12,5 @@ is auto-built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material
 - Standard `[[Wikilinks]]` from Obsidian work out of the box.
 
 [[test]]
+
+[[commands]]
