@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# MkDocs build output
+site/
+
+# Obsidian local workspace/cache (not vault content)
+.obsidian/workspace*
+.obsidian/cache
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
