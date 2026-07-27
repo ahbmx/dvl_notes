@@ -10,3 +10,5 @@ is auto-built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material
 - Add new folders under `docs/` for each topic (e.g. `docs/san/`, `docs/nas/`, `docs/backup/`).
 - Navigation is generated automatically — no manual nav editing required.
 - Standard `[[Wikilinks]]` from Obsidian work out of the box.
+
+[[test]]
