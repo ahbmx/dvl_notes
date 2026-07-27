@@ -17,7 +17,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
-      accent: indigo
+      accent: lime
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -41,8 +41,8 @@ plugins:
   - awesome-pages
   - roamlinks          # converts Obsidian [[wikilinks]] to working links
   - glightbox          # click-to-zoom for embedded images
-  - git-revision-date-localized:
-      enable_creation_date: true
+  # - git-revision-date-localized:
+      # enable_creation_date: true
 
 markdown_extensions:
   - admonition
