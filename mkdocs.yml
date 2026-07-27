@@ -17,7 +17,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
-      accent: lime
+      accent: cyan
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -59,6 +59,7 @@ markdown_extensions:
       permalink: true
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ahbmx
